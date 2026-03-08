@@ -15,8 +15,8 @@ let bro = 5;
 //   console.log("আমার ভাই বেশি কেয়েছি");
 // }
 
-const myNum = 45;
-const frndNum = 97;
+// const myNum = 45;
+// const frndNum = 97;
 
 // if (myNum > frndNum) {
 //   console.log("I much nmbr from frnd");
@@ -30,9 +30,16 @@ const frndNum = 97;
 // console.log("t" == "T");
 // console.log("T" == "T");
 
-const vX = 15;
+// const vX = 15;
 
-const vY = "15";
+// const vY = "15";
 
-console.log(vX != vY, "1");
-console.log(vX !== vY);
+// console.log(vX != vY, "1");
+// console.log(vX !== vY);
+
+// *
+//    ***
+//   *****
+//  *******
+// *********
+// print it
