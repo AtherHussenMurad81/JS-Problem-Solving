@@ -1,7 +1,21 @@
-const games = ["free fair", "pagji", "football", "batminton"];
-games[3] = "ball";
+
+
+
+// const numbers = [12, 98, 45, 63, 21, 72];
+
+// for (const num of numbers) {
+//   console.log(num);
+// }
+// const fruits = ["orange", "apple", "banana", "jackfruit", "watermelon"];
+
+// for (const item of fruits) {
+//   console.log(item);
+// }
+
+// const games = ["free fair", "pagji", "football", "batminton"];
+// games[3] = "ball";
 // console.log(games);
-console.log(games[3]);
+// console.log(games[3]);
 
 // const num = "20";
 // const convertNum = parseInt(num);
