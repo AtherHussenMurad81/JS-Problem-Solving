@@ -1,5 +1,16 @@
+// let num = 0;
+// while (num < 5) {
+//   console.log("Govt Modon Mohon Collage");
+//   num += 1;
+// }
 
-
+// let num = 0;
+// while (num < 5) {
+//   console.log(num);
+//   //   num++;
+//   //   num += 1;
+//   //   num += 0;
+// }
 
 // const numbers = [12, 98, 45, 63, 21, 72];
 
@@ -74,3 +85,18 @@
 // const num = [1, 3, 5, 76, 4, 3, 5, 3];
 // num[7] = 150;
 // console.log(num);
+// let num = 50;
+
+// while (num <= 100) {
+//   console.log(num);
+//   //   console.log(num.length);
+//   num += 1;
+//   //   console.log(num.length);
+// }
+
+// let multiple = 3;
+
+// while (multiple <= 30) {
+//   console.log(multiple);
+//   multiple += 3;
+// }
