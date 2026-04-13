@@ -20,9 +20,9 @@
 //   }
 // }
 
-for (i = 91; i < 120; i++) {
-  if (i % 10 == 0) {
-    console.log(i);
-    break;
-  }
-}
+// for (i = 91; i < 120; i++) {
+//   if (i % 10 == 0) {
+//     console.log(i);
+//     break;
+//   }
+// }
