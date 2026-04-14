@@ -41,12 +41,12 @@
 // console.log(isDivition13(39));
 
 // 7
-function isNagative(a) {
-  if (a < 0) {
-    return a * -1;
-  } else {
-    return false || "gives me nagative value";
-  }
-}
+// function isNagative(a) {
+//   if (a < 0) {
+//     return a * -1;
+//   } else {
+//     return false || "gives me nagative value";
+//   }
+// }
 
-console.log(isNagative(4));
+// console.log(isNagative(4));
