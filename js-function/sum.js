@@ -3,3 +3,8 @@
 //   console.log(sum);
 // }
 // add(2, 4);
+// function summation(fa, ch) {
+//   const sum = fa + ch;
+//   clfg
+
+// }
