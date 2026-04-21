@@ -18,4 +18,6 @@
 
 // Output: false true false true
 
+// 1 //
 
+// function cal(incomeAmount)
