@@ -1,3 +1,1 @@
-log(first);
-// console.log(second);
-// console.log(rest);
+ut: ["Mango", "Apple", "Banana", "Orange"];
