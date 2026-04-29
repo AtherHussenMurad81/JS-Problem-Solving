@@ -15,13 +15,13 @@
 
 // const array = [1, 2, 5, 61, 5, 87, 7, 5, 81, 71, 71];
 
-// const noDup = (arr) => {
-//   const uni = [];
-//   for (const item of arr) {
-//     if (uni.includes(item) === false) {
-//       uni.push(item);
-//     }
-//   }
-//   return uni;
-// };
-// console.log(noDup(array));
+const noDup = (arr) => {
+  const uni = [];
+  for (const item of arr) {
+    if (uni.includes(item) === false) {
+      uni.push(item);
+    }
+  }
+  return uni;
+};
+console.log(noDup(array));
